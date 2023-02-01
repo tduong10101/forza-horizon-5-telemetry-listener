@@ -1,2 +1,0 @@
-pyyaml
-cx_Oracle
